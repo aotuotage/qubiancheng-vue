@@ -5,7 +5,7 @@
 ## Build Setup
 
 ``` bash
-# install dependencies
+# 使用插件：vue-video-player播放器插件、代码高亮插件、element-ui、wangEditor后台文本编辑器插件
 npm install
 
 # serve with hot reload at localhost:8080

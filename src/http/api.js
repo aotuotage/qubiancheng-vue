@@ -2,8 +2,8 @@ import axios from 'axios';
 import router from '../router';
 
 const axiosHttp = axios.create({
-  //baseURL: 'http://localhost:3000',
-  baseURL: 'http://www.qubiancheng1024.com',
+  baseURL: 'http://localhost:3000',
+  //baseURL: 'http://www.qubiancheng1024.com',
   timeout: 5000
 })
 
